@@ -4,7 +4,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
 
 # Released Version
-[![Release](https://badgen.net/github/release/mayphyusinthant/bookstore?include_prereleases&label=Release)]<br/>
+[![Release](https://badgen.net/github/release/mayphyusinthant/bookstore?include_prereleases&label=prerelease)](https://github.com/mayphyusinthant/bookstore/releases/tag/v1.0-beta)
 
 # License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
