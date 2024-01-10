@@ -4,7 +4,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
 
 # Released Version
-[![Release](https://badgen.net/github/release/mayphyusinthant/bookstore?include_prereleases&label=Release)]([https://github.com/mayphyusinthant/bookstore/releases/tag](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1))<br/>
+[![Release](https://badgen.net/github/release/mayphyusinthant/bookstore?include_prereleases&label=Release)]([https://github.com/mayphyusinthant/bookstore/releases/tag](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/))<br/>
 
 # License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
